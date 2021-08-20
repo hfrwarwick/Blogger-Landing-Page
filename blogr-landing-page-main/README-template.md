@@ -1,6 +1,5 @@
 # Frontend Mentor - Blogr landing page 
 
-This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -12,10 +11,8 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
+- 
 ## Overview
 
 ### The challenge
@@ -34,6 +31,8 @@ Users should be able to:
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+Began to plan components starting with the Navbar and working down, while doing bits of CSS along the way. Left the routing till last but gto stuck on a problem, so that needs to be completed in future.
 
 ### Built with
 
