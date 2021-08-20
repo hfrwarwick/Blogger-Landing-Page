@@ -90,4 +90,4 @@ I would like to improve my React skills as I really enjoy using it, but for futu
 
 ## Author
 
-- Website - [Harry Warwick (harrywarwick.com)
+- Website - Harry Warwick (harrywarwick.com)
