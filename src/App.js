@@ -12,11 +12,10 @@ function App() {
     <>
     <BrowserRouter>
     <div className="App">
-       <Switch>
+      <Switch>
       <Route path="/">
         <Header />
         </Route>
-        {/* <Header /> */}
         <Route exact path="/contact">
           <Contact />
           </Route>
