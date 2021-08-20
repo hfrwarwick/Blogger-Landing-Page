@@ -41,7 +41,6 @@ function Info({
           alt="illustration"
           width="100%"
         />
-         
       </InfoDivider>
     </InfoWrapper>
   );
